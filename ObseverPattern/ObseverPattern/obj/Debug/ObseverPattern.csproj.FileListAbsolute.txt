@@ -1,0 +1,12 @@
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\bin\Debug\ObseverPattern.exe.config
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\bin\Debug\ObseverPattern.exe
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\bin\Debug\ObseverPattern.pdb
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.csprojResolveAssemblyReference.cache
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.Form1.resources
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.Properties.Resources.resources
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.csproj.GenerateResource.Cache
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.exe
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.pdb
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.FormBTN1.resources
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.FormBTN2.resources
+c:\users\ttngo\documents\visual studio 2015\Projects\ObseverPattern\ObseverPattern\obj\Debug\ObseverPattern.FormConfig.resources
